@@ -589,3 +589,7 @@ footer {
 .thumbnail .caption{
     color: #fff
 }
+
+.view-container h4 a{
+    color: #FFC107;
+}
